@@ -1,0 +1,11 @@
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Debug\net8.0\staticwebassets.build.json

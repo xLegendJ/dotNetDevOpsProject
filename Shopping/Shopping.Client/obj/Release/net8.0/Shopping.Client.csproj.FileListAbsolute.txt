@@ -7,6 +7,8 @@ C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\bin\Rel
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\bin\Release\net8.0\Shopping.Client.runtimeconfig.json
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\bin\Release\net8.0\Shopping.Client.dll
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\bin\Release\net8.0\Shopping.Client.pdb
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.csproj.AssemblyReference.cache
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.AssemblyInfoInputs.cache
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.AssemblyInfo.cs
@@ -23,6 +25,7 @@ C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Rel
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\staticwebassets.development.json
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\staticwebassets.build.endpoints.json
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.A7D506CE.Up2Date
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.dll
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\refint\Shopping.Client.dll
 C:\Users\17086\source\repos\dotNetDevOpsProject\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.pdb

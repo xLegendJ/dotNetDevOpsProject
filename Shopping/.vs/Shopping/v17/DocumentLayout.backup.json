@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\17086\\source\\repos\\dotnetdevopsproject\\shopping\\shopping.client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\17086\\source\\repos\\dotnetdevopsproject\\shopping\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\17086\\source\\repos\\dotnetdevopsproject\\shopping\\shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\17086\\source\\repos\\dotnetdevopsproject\\shopping\\shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\17086\\source\\repos\\dotnetdevopsproject\\shopping\\shopping.client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\17086\\source\\repos\\dotnetdevopsproject\\shopping\\shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\17086\\source\\repos\\dotnetdevopsproject\\shopping\\shopping.client\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21253079-C8A3-48E1-81CF-646879796A12}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-17T03:19:07.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Shopping.Client\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\appsettings.Development.json",
+              "RelativeToolTip": "Shopping.Client\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T03:13:21.17Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -39,71 +53,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:68873235:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Dockerfile",
-              "RelativeDocumentMoniker": "Shopping.Client\\Dockerfile",
-              "ToolTip": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Dockerfile",
-              "RelativeToolTip": "Shopping.Client\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-15T19:38:33.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Shopping.Client\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Shopping.Client\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-15T19:35:40.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Shopping.Client\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Shopping.Client\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T19:34:40.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductContext.cs",
-              "DocumentMoniker": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Data\\ProductContext.cs",
-              "RelativeDocumentMoniker": "Shopping.Client\\Data\\ProductContext.cs",
-              "ToolTip": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Data\\ProductContext.cs",
-              "RelativeToolTip": "Shopping.Client\\Data\\ProductContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T19:23:41.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Shopping.Client\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\17086\\source\\repos\\dotNetDevOpsProject\\Shopping\\Shopping.Client\\Models\\Product.cs",
-              "RelativeToolTip": "Shopping.Client\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T19:18:55.992Z",
-              "EditorCaption": ""
             }
           ]
         }
